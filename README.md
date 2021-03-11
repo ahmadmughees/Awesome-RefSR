@@ -15,6 +15,6 @@ the repo containing all the papers relevant to Reference based Super Resolution
 
 [5] Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution BMVC [[link]([[link](http://www.bmva.org/bmvc/2017/papers/paper138/paper138.pdf)]
 
-[6] RRSGAN: Reference-Based Super-Resolution for Remote Sensing Image IEEE[link](https://ieeexplore.ieee.org/document/9328132)] - [[github](https://github.com/NJUVISION/AWnet)])]
+[6] RRSGAN: Reference-Based Super-Resolution for Remote Sensing Image ITGRS 2020 [link](https://ieeexplore.ieee.org/document/9328132)]
 
 [7] Cross-scale reference-based light field super-resolution [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328132)
