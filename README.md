@@ -10,7 +10,11 @@ the repo containing all the papers relevant to Reference based Super Resolution
 [2] A Dual Camera System for High Spatiotemporal Resolution Video Acquisition," TPAMI 2020 [[link](https://arxiv.org/abs/1909.13051)] - [[github](https://github.com/NJUVISION/AWnet)]
 
 [3] CrossNet++: Cross-scale Large-parallax Warping for Reference-based Super-resolution TPAMI 2020
-[4] Feature Representation Matters: End-to-End Learning for Reference-Based Image Super-Resolution ECCV 2020
+
+[4] Feature Representation Matters: End-to-End Learning for Reference-Based Image Super-Resolution ECCV 2020.
+
 [5] Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution BMVC
+
 [6] RRSGAN: Reference-Based Super-Resolution for Remote Sensing Image IEEE
+
 [7] Cross-scale reference-based light field super-resolution
