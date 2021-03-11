@@ -1,7 +1,7 @@
 # Reference based Super Resolution (RefSR)
 A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) and [Awesome-Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
 
-_By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at Hafiz.mughees@std.medipol.edu.tr)_
+_By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz.mughees@std.medipol.edu.tr)_
 
 the repo containing all the papers relevant to Reference based Super Resolution
 
