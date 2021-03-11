@@ -13,7 +13,7 @@ the repo containing all the papers relevant to Reference based Super Resolution
 
 [4] Feature Representation Matters: End-to-End Learning for Reference-Based Image Super-Resolution ECCV 2020.[[link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf)] - [[github](https://github.com/NJUVISION/AWnet)]
 
-[5] Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution BMVC [[link]([[link](http://www.bmva.org/bmvc/2017/papers/paper138/paper138.pdf)]
+[5] Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution BMVC [[link](http://www.bmva.org/bmvc/2017/papers/paper138/paper138.pdf)]
 
 [6] RRSGAN: Reference-Based Super-Resolution for Remote Sensing Image ITGRS 2020 [link](https://ieeexplore.ieee.org/document/9328132)]
 
