@@ -11,7 +11,7 @@ the repo containing all the papers relevant to Reference based Super Resolution
 
 [3] CrossNet++: Cross-scale Large-parallax Warping for Reference-based Super-resolution TPAMI 2020
 
-[4] Feature Representation Matters: End-to-End Learning for Reference-Based Image Super-Resolution ECCV 2020.[[link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf)] - [[github](https://github.com/NJUVISION/AWnet)]
+[4] Feature Representation Matters: End-to-End Learning for Reference-Based Image Super-Resolution ECCV 2020.[[link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf)]
 
 [5] Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution BMVC [[link](http://www.bmva.org/bmvc/2017/papers/paper138/paper138.pdf)]
 
