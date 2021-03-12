@@ -18,4 +18,4 @@ _By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz
 
 > [7] Cross-scale reference-based light field super-resolution [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328132)
 
-> [8] Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013) [[link]](https://dl.acm.org/doi/10.1109/ICCV.2013.241)
+> [8] Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013) [[link]](https://people.ee.ethz.ch/~timofter/publications/Timofte-ICCV-2013.pdf)
