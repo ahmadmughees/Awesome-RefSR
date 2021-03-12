@@ -20,4 +20,4 @@ _By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz
 
 > [8] Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013) [[link]](https://people.ee.ethz.ch/~timofter/publications/Timofte-ICCV-2013.pdf)
 > 
-> [9] Image Super-Resolution by Neural Texture Transfer (CVPR 2019) [[link]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf)
+> [9] Image Super-Resolution by Neural Texture Transfer (CVPR 2019) [[link]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf) [[tensorflow]](https://github.com/ZZUTK/SRNTT) [[pytorch]](https://github.com/S-aiueo32/srntt-pytorch)
