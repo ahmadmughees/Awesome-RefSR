@@ -17,3 +17,5 @@ _By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz
 > [6] RRSGAN: Reference-Based Super-Resolution for Remote Sensing Image ITGRS 2020 [[link](https://ieeexplore.ieee.org/document/9328132)]
 
 > [7] Cross-scale reference-based light field super-resolution [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328132)
+
+> [8] Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013) [[link]](https://dl.acm.org/doi/10.1109/ICCV.2013.241)
