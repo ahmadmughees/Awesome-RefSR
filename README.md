@@ -24,3 +24,4 @@ _By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz
 
 > [10] Multiscale gigapixel video: A cross resolution image matching and warping approach (ICCP2017) [[link]](https://ieeexplore.ieee.org/document/7951481)
 
+> [11] Patch Match Improving resolution and depth-of-field of light field cameras using a hybrid imaging system (ICCP 2014) [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6831814)
