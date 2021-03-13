@@ -22,5 +22,5 @@ _By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz
 > 
 > [9] Image Super-Resolution by Neural Texture Transfer (CVPR 2019) [[link]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf) [[tensorflow]](https://github.com/ZZUTK/SRNTT) [[pytorch]](https://github.com/S-aiueo32/srntt-pytorch)
 
-> [10] Multiscale gigapixel video: A cross resolution image matching and warping approach (ICCP2017)[[link]](https://ieeexplore.ieee.org/document/7951481)
+> [10] Multiscale gigapixel video: A cross resolution image matching and warping approach (ICCP2017) [[link]](https://ieeexplore.ieee.org/document/7951481)
 
