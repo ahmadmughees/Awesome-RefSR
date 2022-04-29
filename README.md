@@ -1,7 +1,7 @@
 # Reference based Super Resolution (RefSR)
 A list of resources for reference-based super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) and [Awesome-Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution)
 
-_By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at hafiz.mughees@std.medipol.edu.tr)_
+_By Hafiz Mughees Ahmad (if you have any suggestions, please contact me at ahmad54@uwindsor.ca)_
 
 
 [1] CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping - ECCV 2018 [[link](http://openaccess.thecvf.com/content_ECCV_2018/papers/Haitian_Zheng_CrossNet_An_End-to-end_ECCV_2018_paper.pdf)] - [[github](https://github.com/htzheng/ECCV2018_CrossNet_RefSR)]
